@@ -59,7 +59,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone [https://github.com/Sangam8168/InterviewEdge-AI].git
+git clone https://github.com/Sangam8168/InterviewEdge-AI.git
 cd interview_edge
 ```
 
